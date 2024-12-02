@@ -1,0 +1,1 @@
+git add . && git commit -m "addfile %date%%time%" && git push
